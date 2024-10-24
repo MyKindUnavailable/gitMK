@@ -14,5 +14,5 @@ jobs:
         server: nt6.unoeuro.com
         username: tuboaf.eu
         password: bEtHRFywAfx3n62mkBap
-        server-dir: gitMK/
+        server-dir: cicd/
         delete: true
